@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node build/main.js"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "pdf2json": "github:vjau/pdf2json#addTSDefinitions"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.6",
+    "@types/node": "^18.11.18"
+  }
+}
