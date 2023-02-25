@@ -1,4 +1,4 @@
-# pdf-extractor
+# pdf-text-extractor
 
 Converts messed up pdf into somewhat usable text
 
